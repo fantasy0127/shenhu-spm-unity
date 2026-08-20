@@ -77,6 +77,10 @@ The calibration coefficients and mapping parameters are defined in `TurbidityCal
 
 Do not commit database passwords. `Config/database.example.json` contains placeholders only.
 
+## Data availability
+
+The complete in situ observational datasets used in this study cannot be made publicly available due to data-sharing restrictions. The included `sh1_spm_sample.csv` and `sh2_spm_sample.csv` files contain only limited sample records and are provided solely to demonstrate the required input format and test the code workflow. They should not be regarded as the complete datasets underlying the analyses and results reported in the manuscript.
+
 ## License
 
 MIT License. See `LICENSE`.
